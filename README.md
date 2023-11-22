@@ -15,7 +15,7 @@ Crea un container nel DOM , aggiungendo (attraverso la funzione `appendChild()` 
 
 PROBLEMA: FIZZBUZZ
 
-1. Scrivere un prgramma che stampi in console i numeri da 1 a 100;
+1. Scrivere un programma che stampi in console i numeri da 1 a 100;
 2. I multipli di 3 devono avere come stampa "Fizz";
 3. I multipli di 5 devono avere come stampa "Buzz";
 4. Se il numero è divisibile sia per 3 che per 5 deve stampare "FizzBuzz";
